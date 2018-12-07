@@ -83,3 +83,9 @@ dist/
 
 #upload folder for server
 server/uploads/
+
+#ignore dockerfile for now
+Dockerfile
+
+#ignore dummy C file for now
+*.c
